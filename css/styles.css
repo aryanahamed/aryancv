@@ -1,0 +1,202 @@
+html, body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Ubuntu', serif;
+  background-color: #001120;
+}
+
+h1 {
+  color: #DDDDDD;
+  font-size: 5.625rem;
+  margin: 0px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #DDDDDD;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto auto 50px auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #DDDDDD;
+}
+
+p {
+  color: #DDDDDD;
+}
+
+a {
+  color: #DDDDDD;
+  padding: 40px;
+}
+
+hr {
+  border-style: dotted;
+  border-color: lightgrey;
+  border-width: 10px 0px 0px 0px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+
+/* navbar */
+
+.navbar{
+    padding-top: 0rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    color: #DDDDDD;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+
+.top-container {
+  background-color: #001120;
+  position: relative;
+  padding-top: 0px;
+}
+
+.middle-container{
+    margin-top: 100px;
+}
+
+.bottom-container{
+  position: relative;
+  background-color: #001120;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: 50px;
+  margin: 60px auto auto auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.office-picture{
+  vertical-align: middle;
+  padding-top: 50px;
+  width: 20%
+}
+
+
+.skills{
+	background-color: #001120;
+	margin: 0px auto 100px auto;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.typing-img{
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+.coding-img{
+  width: 20%;
+  float: right;
+  margin-left: 50px;
+}
+.profile-pic{
+  width: 10%
+}
+#specialization h2{
+    margin-bottom: 20px;
+}
+
+.specialization-column-1{
+    padding: 2% 2% 2% 8%;
+}
+.specialization-column-2{
+    padding: 2% 8% 2% 2%;
+}
+
+#specialization{
+    padding: 0px 100px 0px 100px;
+}
+
+.tools-text{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.section-heading{
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+
+.card-header{
+    padding-top: 20px;
+    background-color: #111111;
+}
+
+
+.bio{
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+}
+.contact-oneliner{
+  margin: auto auto 20px auto;
+}
+.contact-description{
+  margin: auto auto 50px auto;
+  width: 30%;
+}
+
+.contact-me h2{
+    margin-bottom: 20px;
+}
+
+.contact-me a{
+    font-size: 1.5rem;
+}
+
+.copyright{
+  color: lightgrey;
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
+
+
+/* Footer */
+#footer{
+    padding: 90px 20px 80px;
+}
+
+#footer p{
+    padding-top: 20px;
+}
+
+.footer-icon{
+    color: #DDDDDD;
+    font-size: 20px;
+    padding: 20px 10px 20px;
+}
