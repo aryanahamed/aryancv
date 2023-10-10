@@ -26,6 +26,7 @@ h3 {
 }
 
 p {
+  font-size: 1.2rem;
   color: #DDDDDD;
 }
 
@@ -132,10 +133,10 @@ hr {
 }
 
 .specialization-column-1{
-    padding: 2% 2% 2% 8%;
+    padding: 2% 2% 2% 2%;
 }
 .specialization-column-2{
-    padding: 2% 8% 2% 2%;
+    padding: 2% 2% 2% 2%;
 }
 
 #specialization{
